@@ -1,0 +1,711 @@
+\begin{thebibliography}{100}
+
+\bibitem{moore1998}
+G.~E. Moore.
+\newblock {Cramming more components onto integrated circuits}.
+\newblock {\em Proceedings of the IEEE}, 86:83, 1998.
+
+\bibitem{Kim2008}
+S.~K. Kim, G.~J. Choi, S.~Y. Lee, M.~Seo, S.~W. Lee, J.~H. Han, H.~S. Ahn,
+  S.~Han, and C.~S. Hwang.
+\newblock {Al-Doped TiO2 Films with Ultralow Leakage Currents for Next
+  Generation DRAM Capacitors}.
+\newblock {\em Advanced Materials}, 20(8):1429, April 2008.
+
+\bibitem{Wilk2001}
+G.~D. Wilk, R.~M. Wallace, and J.~M. Anthony.
+\newblock {High-$\kappa$ gate dielectrics: Current status and materials
+  properties considerations}.
+\newblock {\em Journal of Applied Physics}, 89(10):5243, 2001.
+
+\bibitem{roadmap1997}
+{Semiconductor Industry Association, Washington, D.C.}
+\newblock {The National Technology Roadmap for Semiconductors}.
+\newblock Technical report, 1997.
+
+\bibitem{Lenzlinger1969}
+M.~Lenzlinger and E.~H. Snow.
+\newblock {Fowler-Nordheim Tunneling into Thermally Grown SiO2}.
+\newblock {\em Journal of Applied Physics}, 40(1):278--283, 1969.
+
+\bibitem{Lo1997}
+S.~H. Lo, D.~A. Buchanan, Y.~Taur, and W.~Wang.
+\newblock {Quantum-Mechanical Modeling of Electron Tunneling Current from the
+  Inversion Layer of Ultra-Thin-Oxide nMOSFET's}.
+\newblock {\em IEEE Electron Device Letters}, 18(5):209--211, 1997.
+
+\bibitem{Muller1999}
+D.~A. Muller, T.~Sorsch, S.~Moccio, F.~H. Baumann, K.~Evans-Lutterodt, and
+  G.~Timp.
+\newblock {The electronic structure at the atomic scale of ultrathin gate
+  oxides}.
+\newblock {\em Nature}, 399(June):758--761, 1999.
+
+\bibitem{Robertson2006}
+John Robertson.
+\newblock {High dielectric constant gate oxides for metal oxide Si
+  transistors}.
+\newblock {\em Reports on Progress in Physics}, 69(2):327--396, February 2006.
+
+\bibitem{Robertson2000}
+J.~Robertson.
+\newblock {Band offsets of wide-band-gap oxides and implications for future
+  electronic devices}.
+\newblock {\em Journal of Vacuum Science \& Technology B: Microelectronics and
+  Nanometer Structures}, 18(3):1785, 2000.
+
+\bibitem{Yeo2000}
+Y.~C. Yeo, Q.~Lu, W.~C. Lee, T.~J. King, C.~Hu, X.~Wang, X.~Guo, and T.~P. Ma.
+\newblock {Direct Tunneling Gate Leakage Current in Transistors with Ultrathin
+  Silicon Nitride Gate Dielectric}.
+\newblock {\em IEEE Electron Device Letters}, 21(11):540--542, 2000.
+
+\bibitem{Yeo2002a}
+Y.~C. Yeo, T.~J. King, and C.~Hu.
+\newblock {Direct tunneling leakage current and scalability of alternative gate
+  dielectrics}.
+\newblock {\em Applied Physics Letters}, 81(11):2093, 2002.
+
+\bibitem{Robertson2008}
+J.~Robertson.
+\newblock {Maximizing performance for higher K gate dielectrics}.
+\newblock {\em Journal of Applied Physics}, 104(12):124111, 2008.
+
+\bibitem{Kim2004}
+Seong~Keun Kim, Wan-Don Kim, Kyung-Min Kim, Cheol~Seong Hwang, and Jaehack
+  Jeong.
+\newblock {High dielectric constant TiO[sub 2] thin films on a Ru electrode
+  grown at 250 °C by atomic-layer deposition}.
+\newblock {\em Applied Physics Letters}, 85(18):4112, 2004.
+
+\bibitem{Arlt1985}
+G.~Arlt, D.~Hennings, and G.~de~With.
+\newblock {Dielectric properties of fine-grained barium titanate ceramics}.
+\newblock {\em Journal of Applied Physics}, 58(4):1619, 1985.
+
+\bibitem{Horikawa1993}
+T.~Horikawa, N.~Mikami, T.~Makita, J.~Tanimura, M.~Kataoka, K.~Sato, and
+  M.~Nunoshita.
+\newblock {Dielectric Properties of (Ba,Sr)TiO3 Thin Film Deposited by RF
+  Sputtering}.
+\newblock {\em Japanese Journal of Applied Physics}, 32:4126--4130, 1993.
+
+\bibitem{Hilton1996}
+A.~D. Hilton and B.~W. Ricketts.
+\newblock {Dielectric properties of Ba 1 − x Sr x TiO 3 ceramics}.
+\newblock {\em Journal of Physics D: Applied Physics}, 29:1321--1325, 1996.
+
+\bibitem{Edge2006}
+L.~F. Edge, D.~G. Schlom, P.~Sivasubramani, R.~M. Wallace, B.~Holländer, and
+  J.~Schubert.
+\newblock {Electrical characterization of amorphous lanthanum aluminate thin
+  films grown by molecular-beam deposition on silicon}.
+\newblock {\em Applied Physics Letters}, 88(11):112907, 2006.
+
+\bibitem{Liu2011}
+Y.~Liu, S.~Shen, L.~J. Brillson, and R.~G. Gordon.
+\newblock {Impact of ultrathin Al2O3 barrier layer on electrical properties of
+  LaLuO3 metal-oxide-semiconductor devices}.
+\newblock {\em Applied Physics Letters}, 98(12):122907, 2011.
+
+\bibitem{Chaneliere1998}
+C.~Chaneliere, J.L. Autran, R.A.B. Devine, and B.~Balland.
+\newblock {Tantalum pentoxide (Ta2O5) thin films for advanced dielectric
+  applications}.
+\newblock {\em Materials Science and Engineering R.}, 22:269, 1998.
+
+\bibitem{Kingon2000}
+A.~I. Kingon, J.~Maria, and S.~K. Streiffer.
+\newblock {Alternative dielectrics to silicon dioxide for memory and logic
+  devices}.
+\newblock {\em Nature}, 406(August):1032--1038, 2000.
+
+\bibitem{Hubbard1996a}
+K.~J. Hubbard and D.~G. Schlom.
+\newblock {Thermodynamic stability of binary oxides in contact with silicon}.
+\newblock {\em Journal of Materials Research}, 11(11):2757--2776, 1996.
+
+\bibitem{Schlom2002}
+D.~G. Schlom and J.~H. Haeni.
+\newblock {A Thermodynamic Approach to Selecting Alternative Gate Dielectrics}.
+\newblock {\em Materials Research Bulletin}, 27(March):198, 2002.
+
+\bibitem{dai2003}
+Jiang Dai, Pei~Fen Lee, K.~Wong, H.~Chan, and C.~Choy.
+\newblock Epitaxial growth of yttrium-stabilized hfo2 high-k gate dielectric
+  thin films on si.
+\newblock {\em Journal of Applied Physics}, 94:912--915, 07 2003.
+
+\bibitem{VanDover2003}
+R.~B. van Dover, M.~L. Green, L.~Manchanda, L.~F. Schneemeyer, and T.~Siegrist.
+\newblock {Composition-dependent crystallization of alternative gate
+  dielectrics}.
+\newblock {\em Applied Physics Letters}, 83(7):1459, 2003.
+
+\bibitem{Wilk2000}
+G.~D. Wilk and R.~M. Wallace.
+\newblock {Stable zirconium silicate gate dielectrics deposited directly on
+  silicon}.
+\newblock {\em Applied Physics Letters}, 76(1):112, 2000.
+
+\bibitem{Wilk2000a}
+G.~D. Wilk, R.~M. Wallace, and J.~M. Anthony.
+\newblock {Hafnium and zirconium silicates for advanced gate dielectrics}.
+\newblock {\em Journal of Applied Physics}, 87(1):484, 2000.
+
+\bibitem{Rignanese2002}
+G.~M. Rignanese, F.~Detraux, X.~Gonze, A.~Bongiorno, and A.~Pasquarello.
+\newblock {Dielectric Constants of Zr Silicates: A First-Principles Study}.
+\newblock {\em Physical Review Letters}, 89(11):117601, August 2002.
+
+\bibitem{Pignedoli2007}
+C.~A. Pignedoli, A.~Curioni, and W.~Andreoni.
+\newblock {Anomalous Behavior of the Dielectric Constant of Hafnium Silicates:
+  A First Principles Study}.
+\newblock {\em Physical Review Letters}, 98(3):037602, January 2007.
+
+\bibitem{Mistry2007}
+K.~Mistry, C.~Allen, C.~Auth, B.~Beattie, D.~Bergstrom, M.~Bost, M.~Brazier,
+  A.~Buehler, A.~Cappellani, R.~Chau, C.-H. Choi, G.~Ding, K.~Fischer,
+  T.~Ghani, R.~Grover, W.~Han, D.~Hanken, M.~Hattendorf, J.~He, J.~Hicks,
+  R.~Heussner, D.~Ingerly, P.~Jain, R.~James, L.~Jong, S.~Josh, C.~Kenyon,
+  K.~Kuhn, K.~Lee, H.~Liu, J.~Maiz, B.~McIntyre, P.~Moon, J.~Neirynck, S.~Pae,
+  C.~Paker, D.~Parsons, C.~Prasad, L.~Pipes, M.~Prince, P.~Ranade, T.~Reynolds,
+  J.~Sandford, L.~Shifren, J.~Sebastian, J.~Seiple, D.~Simon, S.~Sivakumar,
+  P.~Smith, C.~Thomas, T.~Troeger, P.~Vandervoorn, S.~Williams, and
+  K.~Zawadzki.
+\newblock {A 45nm Logic Technology with High-k + Metal Gate Transistors,
+  Strained Silicon, 9 Cu Interconnect Layers, 193nm Dry Patterning, and 100\%
+  Pb-free Packaging}.
+\newblock In {\em Electron Devices Meeting, 2007. IEDM 2007. IEEE
+  International}, pages 247 -- 250, 2007.
+
+\bibitem{Neumayer2001}
+D.~A. Neumayer and E.~Cartier.
+\newblock {Materials characterization of ZrO2 – SiO2 and HfO2 – SiO2 binary
+  oxides deposited by chemical solution deposition}.
+\newblock {\em Journal of Applied Physics}, 90:1801, 2001.
+
+\bibitem{Visokay2002}
+M.~R. Visokay, J.~J. Chambers, A.~L.~P. Rotondaro, A.~Shanware, and L.~Colombo.
+\newblock {Application of HfSiON as a gate dielectric material}.
+\newblock {\em Applied Physics Letters}, 80(17):3183, 2002.
+
+\bibitem{Cava1995}
+R.~F. Cava, W.~F. {Peck Jr}, and J.~J. Krajewski.
+\newblock {Enhancement of the dielectric constant of Ta2O5 through substitution
+  with TiO2}.
+\newblock {\em Nature}, 377(21):215, 1995.
+
+\bibitem{Chalker2008a}
+P.~R. Chalker, M.~Werner, S.~Romani, R.~J. Potter, K.~Black, H.~C. Aspinall,
+  A.~C. Jones, C.~Z. Zhao, S.~Taylor, and P.~N. Heys.
+\newblock {Permittivity enhancement of hafnium dioxide high-$\kappa$ films by
+  cerium doping}.
+\newblock {\em Applied Physics Letters}, 93(18):182911, 2008.
+
+\bibitem{Fischer2008b}
+Dominik Fischer and Alfred Kersch.
+\newblock {The effect of dopants on the dielectric constant of HfO[sub 2] and
+  ZrO[sub 2] from first principles}.
+\newblock {\em Applied Physics Letters}, 92(1):012908, 2008.
+
+\bibitem{Park2006}
+P.K. Park and S.~Kang.
+\newblock {Enhancement of dielectric constant in HfO[sub 2] thin films by the
+  addition of Al[sub 2]O[sub 3]}.
+\newblock {\em Applied Physics Letters}, 89(19):192905--1--3, 2006.
+
+\bibitem{Tomida2006}
+K.~Tomida, K.~Kita, and A.~Toriumi.
+\newblock {Dielectric constant enhancement due to Si incorporation into HfO[sub
+  2]}.
+\newblock {\em Applied Physics Letters}, 89(14):142902, 2006.
+
+\bibitem{Lucovsky2000}
+G.~Lucovsky and G.~B. Rayner.
+\newblock {Microscopic model for enhanced dielectric constants in low
+  concentration SiO 2 -rich noncrystalline Zr and Hf silicate alloys}.
+\newblock {\em Applied Physics Letters}, 77(18):2912, 2000.
+
+\bibitem{Kurtz2001}
+H.~A. Kurtz and R.~A.~B. Devine.
+\newblock {Role of bond coordination and molecular volume on the dielectric
+  constant of mixed-oxide compounds}.
+\newblock {\em Applied Physics Letters}, 79(15):2342, 2001.
+
+\bibitem{Devine2001}
+R.~A.~B. Devine and A.~G. Revesz.
+\newblock {Concentration dependence of the dielectric constant in mixed oxides
+  M[sub x]O[sub y]M[sub p][sup ʹ]O[sub q]}.
+\newblock {\em Journal of Applied Physics}, 90(1):389, 2001.
+
+\bibitem{Banno2010}
+Naoki Banno, Toshitsugu Sakamoto, Noriyuki Iguchi, Masashi Matsumoto, Hideto
+  Imai, Toshinari Ichihashi, Shinji Fujieda, Kazuhiko Tanaka, Satoshi Watanabe,
+  Shu Yamaguchi, Tsuyoshi Hasegawa, and Masakazu Aono.
+\newblock {Structural characterization of amorphous Ta[sub 2]O[sub 5] and
+  SiO[sub 2]–Ta[sub 2]O[sub 5] used as solid electrolyte for nonvolatile
+  switches}.
+\newblock {\em Applied Physics Letters}, 97(11):113507, 2010.
+
+\bibitem{Fukumoto1997}
+A.~Fukumoto and K.~Miwa.
+\newblock {Prediction of hexagonal Ta2O5 structure by first-principles
+  calculations}.
+\newblock {\em Physical Review B}, 55(17):11155, May 1997.
+
+\bibitem{Liu2007b}
+X.Q. Liu, X.D. Han, Z.~Zhang, L.F. Ji, and Y.J. Jiang.
+\newblock {The crystal structure of high temperature phase Ta2O5}.
+\newblock {\em Acta Materialia}, 55(7):2385--2396, April 2007.
+
+\bibitem{Kimura1995a}
+Hidekazu Kimura, Jun’ichiro Mizuki, Satoshi Kamiyama, and Hiroshi Suzuki.
+\newblock {Extended x-ray absorption fine structure analysis of the difference
+  in local structure of tantalum oxide capacitor films produced by various
+  annealing methods}.
+\newblock {\em Applied Physics Letters}, 66(17):2209, 1995.
+
+\bibitem{Andreoni2010}
+W.~Andreoni and C.~A. Pignedoli.
+\newblock {Ta2O5 polymorphs: Structural motifs and dielectric constant from
+  first principles}.
+\newblock {\em Applied Physics Letters}, 96(6):062901, 2010.
+
+\bibitem{Bassiri2011}
+R.~Bassiri, K.~B. Borisenko, D.~J.~H. Cockayne, J.~Hough, I.~MacLaren, and
+  S.~Rowan.
+\newblock {Probing the atomic structure of amorphous Ta2O5 coatings}.
+\newblock {\em Applied Physics Letters}, 98(3):031904, 2011.
+
+\bibitem{Lee2013}
+Sung-Hoon Lee, Jongseob Kim, Sae-Jin Kim, Sungjin Kim, and Gyeong-Su Park.
+\newblock {Hidden Structural Order in Orthorhombic Ta\_\{2\}O\_\{5\}}.
+\newblock {\em Physical Review Letters}, 110(23):235502, June 2013.
+
+\bibitem{Naoi2012}
+Taro~a. Naoi, Sara~C. Barron, Maxim~M. Noginov, and R.~B. van Dover.
+\newblock {Dielectric enhancement in amorphous TaxGe1−xOy thin films}.
+\newblock {\em Applied Physics Letters}, 101(9):092901, 2012.
+
+\bibitem{Hisamoto2000}
+Digh Hisamoto, Wen-chin Lee, Jakub Kedzierski, Hideki Takeuchi, Kazuya Asano,
+  Charles Kuo, Erik Anderson, Tsu-jae King, Jeffrey Bokor, and Chenming Hu.
+\newblock {FinFET — A Self-Aligned Double-Gate MOSFET Scalable to 20 nm}.
+\newblock {\em IEEE Transactions On Electronc Devices}, 47(12):2320--2325,
+  2000.
+
+\bibitem{Devoret2013}
+M~H Devoret and R~J Schoelkopf.
+\newblock {Superconducting circuits for quantum information: an outlook.}
+\newblock {\em Science (New York, N.Y.)}, 339(6124):1169--74, March 2013.
+
+\bibitem{Pershin2012}
+By~Yuriy~V Pershin and Massimiliano~Di Ventra.
+\newblock {Neuromorphic, Digital, and Quantum Computation with Memory Circuit
+  Elements}.
+\newblock {\em Proceedings of the IEEE}, 100(6):2071--2080, 2012.
+
+\bibitem{Meijer2008}
+G.~I. Meijer.
+\newblock {Materials science. Who wins the nonvolatile memory race?}
+\newblock {\em Science (New York, N.Y.)}, 319(5870):1625--6, March 2008.
+
+\bibitem{Yang2013}
+J~Joshua Yang, Dmitri~B Strukov, and Duncan~R Stewart.
+\newblock {Memristive devices for computing.}
+\newblock {\em Nature nanotechnology}, 8(1):13--24, January 2013.
+
+\bibitem{Dearnaley1970}
+G.~Dearnaley, A.~M. Stoneham, and D.~V. Morgan.
+\newblock {Electrical phenomena in amorphous oxide films}.
+\newblock {\em Reports on Progress in Physics}, 33(3):1129--1191, September
+  1970.
+
+\bibitem{Yao2010a}
+Jun Yao, Zhengzong Sun, Lin Zhong, Douglas Natelson, and James~M Tour.
+\newblock {Resistive switches and memories from silicon oxide.}
+\newblock {\em Nano letters}, 10(10):4105--10, October 2010.
+
+\bibitem{Kwon2010a}
+Deok-Hwang Kwon, Kyung~Min Kim, Jae~Hyuck Jang, Jong~Myeong Jeon, Min~Hwan Lee,
+  Gun~Hwan Kim, Xiang-Shu Li, Gyeong-Su Park, Bora Lee, Seungwu Han, Miyoung
+  Kim, and Cheol~Seong Hwang.
+\newblock {Atomic structure of conducting nanofilaments in TiO2 resistive
+  switching memory.}
+\newblock {\em Nature nanotechnology}, 5(2):148--53, February 2010.
+
+\bibitem{Lee2011a}
+Myoung-Jae Lee, Chang~Bum Lee, Dongsoo Lee, Seung~Ryul Lee, Man Chang, Ji~Hyun
+  Hur, Young-Bae Kim, Chang-Jung Kim, David~H Seo, Sunae Seo, U-In Chung,
+  In-Kyeong Yoo, and Kinam Kim.
+\newblock {A fast, high-endurance and scalable non-volatile memory device made
+  from asymmetric Ta2O(5-x)/TaO(2-x) bilayer structures.}
+\newblock {\em Nature materials}, 10(8):625--30, August 2011.
+
+\bibitem{VanDover2004a}
+Robert~Bruce van Dover and Lynn~F. Schneemeyer.
+\newblock {The Codeposited Composition Spread Approach to High-Throughput
+  Discovery/Exploration of Inorganic Materials}.
+\newblock {\em Macromolecular Rapid Communications}, 25(1):150--157, January
+  2004.
+
+\bibitem{Xiang1995}
+X.~D. Xiang, X.~Sun, G.~Brice\~{n}o, Y.~Lou, K.-A. Wang, H.~Chang, W.~G.
+  Wallace-Freedman, S.-W. Chen, and P.~G. Schultz.
+\newblock {A combinatorial approach to materials discovery.}
+\newblock {\em Science (New York, N.Y.)}, 268(5218):1738--40, June 1995.
+
+\bibitem{Cuomo1977}
+J.~J. Cuomo and R.~J. Gambino.
+\newblock {Incorporation of rare gases in sputtered amorphous metal films}.
+\newblock {\em Journal of Vacuum Science and Technology}, 14(1):152, January
+  1977.
+
+\bibitem{Kim1998}
+Joo~Han Kim and Ki~Woong Chung.
+\newblock {Microstructure and properties of silicon nitride thin films
+  deposited by reactive bias magnetron sputtering}.
+\newblock {\em Journal of Applied Physics}, 83(11):5831, 1998.
+
+\bibitem{Barron2009}
+S.~C. Barron, M.~M. Noginov, D.~Werder, L.~F. Schneemeyer, and R.~B. van Dover.
+\newblock {Dielectric response of tantalum oxide subject to induced ion
+  bombardment during oblique sputter deposition}.
+\newblock {\em J. Appl. Phys.}, 106(10):104110, 2009.
+
+\bibitem{Spaldin2012}
+N.~A. Spaldin.
+\newblock {A beginner's guide to the modern theory of polarization}.
+\newblock {\em Journal of Solid State Chemistry}, 195:2--10, November 2012.
+
+\bibitem{Subhadra2011}
+D.~B. Sirdeshmukh, L.~Sirdeshmukh, and K.~G. Subhadra.
+\newblock {\em {Atomistic Properties of Solids}}.
+\newblock Springer, 2011.
+
+\bibitem{Nuzhnyy2009}
+D.~Nuzhnyy, J.~Petzelt, S.~Kamba, P.~Kužel, C.~Kadlec, V.~Bovtun, M.~Kempa,
+  J.~Schubert, C.~M. Brooks, and D.~G. Schlom.
+\newblock {Soft mode behavior in SrTiO[sub 3]/DyScO[sub 3] thin films: Evidence
+  of ferroelectric and antiferrodistortive phase transitions}.
+\newblock {\em Applied Physics Letters}, 95(23):232902, 2009.
+
+\bibitem{Coburn1972}
+J.~W. Coburn and E.~Kay.
+\newblock {Positive-ion bombardment of substrates in rf diode glow discharge
+  sputtering}.
+\newblock {\em Journal of Applied Physics}, 43(12):4965--4971, 1972.
+
+\bibitem{Huang2010}
+C.~Y. Huang, H.~M. Ku, Y.~P. Tsai, W.~K Chen, and S.~Chao.
+\newblock {Refractive index variation of amorphous Ta2O5 film fabricated by ion
+  beam sputtering with RF bias power}.
+\newblock {\em Optical Review}, 16(3):274--275, June 2009.
+
+\bibitem{Goldstein2003}
+J.~I. Goldstein, C.~E. Lyman, D.~E. Newbury, E.~Lifshin, P.~Echlin, L.~Sawyer,
+  D.~C. Joy, and J.~R. Michael.
+\newblock {\em Scanning Electron Microscopy and X-ray Microanalysis}.
+\newblock Kluwer Academic, 2003.
+
+\bibitem{Parratt1954}
+L.~G. Parratt.
+\newblock {Surface Studies of Solids by Total Reflection of X-rays}.
+\newblock {\em Physical Review}, 95(2):359, 1954.
+
+\bibitem{Bahr1993}
+A.~Gibaud and S.~Hazra.
+\newblock {X-ray reflectivity and diffuse-scattering study of CoSi2 layers in
+  Si produced by ion-beam synthesis.}
+\newblock {\em Current Science}, 78(12):1467--1477, February 2000.
+
+\bibitem{Chantler1995}
+C.~T. Chantler.
+\newblock {Theoretical Form Factor, Attenuation, and Scattering Tabulation for
+  Z=1–92 from E=1–10 eV to E=0.4–1.0 MeV}.
+\newblock {\em Journal of Physical and Chemical Reference Data}, 24(1):71,
+  1995.
+
+\bibitem{Treacy2012}
+M.~M.~J. Treacy and K.~B. Borisenko.
+\newblock {The local structure of amorphous silicon}.
+\newblock {\em Science (New York, N.Y.)}, 335:950, February 2012.
+
+\bibitem{Cockayne2007}
+D.~J.~H. Cockayne.
+\newblock {The Study of Nanovolumes of Amorphous Materials Using Electron
+  Scattering}.
+\newblock {\em Annual Review of Materials Research}, 37(1):159--187, August
+  2007.
+
+\bibitem{Billinge2003}
+T.~Egami and S.J.L. Billinge.
+\newblock {\em {Underneath the Bragg Peaks: Structural Analysis of Complex
+  Materials}}.
+\newblock Pergamon, 2003.
+
+\bibitem{Warren1990}
+B.~E. Warren.
+\newblock {\em {X-ray Diffraction}}.
+\newblock Dover, 1990.
+
+\bibitem{Waseda1980}
+Y.~Waseda.
+\newblock {\em {The Structure of Non-Crystalline Materials}}.
+\newblock McGraw-Hill Inc., 1980.
+
+\bibitem{Farrow2009}
+C.~L. Farrow and S.~J.~L. Billinge.
+\newblock {Relationship between the atomic pair distribution function and
+  small-angle scattering: implications for modeling of nanoparticles.}
+\newblock {\em Acta crystallographica. Section A, Foundations of
+  crystallography}, 65(Pt 3):232--9, May 2009.
+
+\bibitem{Petkov1998}
+V.~Petkov, G.~Holzhuter, U.~Troge, T.~Gerber, and B.~Himmel.
+\newblock {Atomic-scale structure of amorphous TiO2 by electro, X-ray
+  diffraction and reverse Monte Carlo simulations}.
+\newblock {\em Journal of Non-Crystalline Solids}, 231:17--30, 1998.
+
+\bibitem{Gregoire2009a}
+J.~M. Gregoire, D.~Dale, A.~Kazimirov, F.~J. DiSalvo, and R.~B. van Dover.
+\newblock {High energy x-ray diffraction/x-ray fluorescence spectroscopy for
+  high-throughput analysis of composition spread thin films.}
+\newblock {\em The Review of scientific instruments}, 80(12):123905, December
+  2009.
+
+\bibitem{Hammersley1996}
+S.~O. Hammersley, M.~Hanfland, A.~N. Fitch, and D.~H{\"a}usermann.
+\newblock Two-dimensional detector software: From real detector to idealised
+  image or two-theta scan.
+\newblock {\em High Pressure Research}, 14:235--248, 1996.
+
+\bibitem{Qiu2004}
+X.~Qiu, J.~W. Thompson, and S.~J.~L. Billinge.
+\newblock {PDFgetX2 : a GUI-driven program to obtain the pair distribution
+  function from X-ray powder diffraction data}.
+\newblock {\em Journal of Applied Crystallography}, 37(4):678--678, July 2004.
+
+\bibitem{Juhas2013a}
+P.~Juh\'{a}s, T.~Davis, C.~L. Farrow, and S.~J.~L. Billinge.
+\newblock {PDFgetX3 : a rapid and highly automatable program for processing
+  powder diffraction data into total scattering pair distribution functions}.
+\newblock {\em Journal of Applied Crystallography}, 46(2):560--566, March 2013.
+
+\bibitem{Dykhne2011}
+T.~Dykhne, R.~Taylor, A.~Florence, and S.~J.~L. Billinge.
+\newblock {Data requirements for the reliable use of atomic pair distribution
+  functions in amorphous pharmaceutical fingerprinting.}
+\newblock {\em Pharmaceutical research}, 28(5):1041--1048, May 2011.
+
+\bibitem{Zhang2007}
+F.~Zhang, P.~J. Chupas, S.~L.~A. Lui, J.~C. Hanson, W.~A. Caliebe, P.~L. Lee,
+  and S.-W. Chan.
+\newblock {In situ Study of the Crystallization from Amorphous to Cubic
+  Zirconium Oxide: Rietveld and Reverse Monte Carlo Analyses}.
+\newblock {\em Chemistry of Materials}, 19(13):3118--3126, June 2007.
+
+\bibitem{Ravel2005}
+B.~Ravel and M.~Newville.
+\newblock {ATHENA, ARTEMIS, HEPHAESTUS: data analysis for X-ray absorption
+  spectroscopy using IFEFFIT.}
+\newblock {\em Journal of synchrotron radiation}, 12:537--541, July 2005.
+
+\bibitem{Nakamura2005}
+K.~Fujitani K.~Nakamura, K.~Doi and A.~Tachibana.
+\newblock {\em Phys. Rev. B}, 89:117601, 2002.
+
+\bibitem{Ouyang2005}
+Lizhi Ouyang and Wai-YimChing.
+\newblock {\em Phys. Stat. Sol. B}, 242:R64, 2005.
+
+\bibitem{Lanza2012}
+M.~Porti M. Nafría Z. Y. Shen L. F. Liu J. F. Kang D.~Gilmer M.~Lanza, M.
+  K.~Zhang and G.~Bersuker.
+\newblock {\em Appl. Phys. Lett.}, 100:123508, 2012.
+
+\bibitem{vanDover1999}
+R.~M.~Fleming R.~B.~van Dover, L. F.~Schneemeyer and H.~A. Huggins.
+\newblock {\em Biotechnol. Bioeng.}, 61:217, 1999.
+
+\bibitem{Gupta}
+R.~C. Kuznicki L. H. Cadoff B. R.~Rossing T.~K.~Gupta, J. H.~Bechtold.
+\newblock {\em Journal of Materials Science}, 12:2421, 1977.
+
+\bibitem{Shannon1993a}
+R.~D. Shannon.
+\newblock {Dielectric polarizabilities of ions in oxides and fluorides}.
+\newblock {\em Journal of Applied Physics}, 73(1):348, 1993.
+
+\bibitem{Henn1995}
+N.~Jiang F.~E. G.~Henn, R. M.~Buchanan and D.~A. Stevenson.
+\newblock {\em Applied Physics A}, 60:515, 1995.
+
+\bibitem{Feinberg}
+A.~Feinberg and C.H. Perry.
+\newblock {\em J. Phys. Chem. Solids}, 42:513, 1981.
+
+\bibitem{Zhao2002}
+Xinyuan Zhao and David Vanderbilt.
+\newblock {\em Phys. Rev. B}, 65:075105, 2002.
+
+\bibitem{Vanderbilt2005}
+Xinyuan~Zhao David~Vanderbilt and Davide Ceresoli.
+\newblock {\em Thin Solid Films}, 486:125, 2005.
+
+\bibitem{Kijima2000}
+Y.~Kijima and T.~Hanada.
+\newblock {\em Journal of Materials Science}, 35:2193, 2000.
+
+\bibitem{Cevro1995}
+M.~Cevro.
+\newblock {Ion-beam sputtering of ( Ta205 , O ,), - ( SiO2 ,), \_ x composite
+  thin films}.
+\newblock {\em Thin Solid Films}, 258:91, 1995.
+
+\bibitem{Fujishima1972}
+A.~Fujishima and K.~Honda.
+\newblock {Electrical Photolysis of Water at a Seminconductor Electrode}.
+\newblock {\em Nature}, 238:37--38, 1972.
+
+\bibitem{Govindarajan2007}
+S.~Govindarajan, T.~S. Böscke, P.~Sivasubramani, P.~D. Kirsch, B.~H. Lee,
+  H.-H. Tseng, R.~Jammy, U.~Schröder, S.~Ramanathan, and B.~E. Gnade.
+\newblock {Higher permittivity rare earth doped HfO[sub 2] for sub-45-nm
+  metal-insulator-semiconductor devices}.
+\newblock {\em Applied Physics Letters}, 91(6):062906, 2007.
+
+\bibitem{Chalker2008}
+P.~R. Chalker, M.~Werner, S.~Romani, R.~J. Potter, K.~Black, H.~C. Aspinall,
+  a.~C. Jones, C.~Z. Zhao, S.~Taylor, and P.~N. Heys.
+\newblock {Permittivity enhancement of hafnium dioxide high-$\kappa$ films by
+  cerium doping}.
+\newblock {\em Applied Physics Letters}, 93(18):182911, 2008.
+
+\bibitem{TsouTsou2009}
+D.~Tsoutsou, L.~Lamagna, S.~N. Volkos, a.~Molle, S.~Baldovino, S.~Schamm, P.~E.
+  Coulon, and M.~Fanciulli.
+\newblock {Atomic layer deposition of La[sub x]Zr[sub 1−x]O[sub 2−$\delta$]
+  (x=0.25) high-k dielectrics for advanced gate stacks}.
+\newblock {\em Applied Physics Letters}, 94(5):053504, 2009.
+
+\bibitem{Kukli1999}
+Kaupo Kukli, Mikko Ritala, and Markku Leskelä.
+\newblock {Properties of atomic layer deposited (Ta[sub 1−x]Nb[sub x])[sub
+  2]O[sub 5] solid solution films and Ta[sub 2]O[sub 5]–Nb[sub 2]O[sub 5]
+  nanolaminates}.
+\newblock {\em Journal of Applied Physics}, 86(10):5656, 1999.
+
+\bibitem{Naoi2018jap}
+T.~A. Naoi and R.~B. van Dover.
+\newblock Dielectric properties of amorphous ta-ge-o and ta-si-o thin films.
+\newblock {\em Journal of Applied Physics}, 123(24):244103, 2018.
+
+\bibitem{Pignolet1995}
+A~Pignolet, G~Mohan, and S~B Krupanidhi.
+\newblock {Rapid thermal processed thin films of niobium pentoxide ( Nb , O5 )
+  deposited by reactive magnetron sputtering}.
+\newblock 261:18--24, 1995.
+
+\bibitem{Fujikawa1997}
+Hisayoshi Fujikawa, Koji Noda, Shizuo Tokito, and Yasunori Taga.
+\newblock {Electrical properties of Ta–Sn–O films on indium tin oxide
+  electrodes}.
+\newblock {\em Applied Physics Letters}, 70(2):270, 1997.
+
+\bibitem{Vandover1998}
+R.~B. van Dover, L.~F. Schneemeyer, and R.~M. Fleming.
+\newblock {Discovery of a useful thin-film dielectric using a
+  composition-spread approach}.
+\newblock {\em Nature}, 392(March):2653, 1998.
+
+\bibitem{Ritala1994}
+Mikko Ritala, Markku Leskel, Lauri Niinist, Thomas Prohaska, Gernot
+  Friedbacher, and Manfred Grasserbauer.
+\newblock {Development of crystallinity and morphology in hafnium dioxide thin
+  films grown by atomic layer epitaxy}.
+\newblock {\em Thin Solid Films}, 250:72--80, 1994.
+
+\bibitem{Jones1992}
+C.~T. Kuo, R.~Kwor, and K.~M. Jones.
+\newblock {Study of sputtered HfO2 thin films on silicon}.
+\newblock {\em Thin Solid Films}, 213:257--264, 1992.
+
+\bibitem{Wang2008}
+Jue Wang, Robert~L Maier, and Horst Schreiber.
+\newblock {Crystal phase transition of HfO2 films evaporated by
+  plasma-ion-assisted deposition.}
+\newblock {\em Applied optics}, 47(13):C189--92, May 2008.
+
+\bibitem{Ho2003}
+M.-Y. Ho, H.~Gong, G.~D. Wilk, B.~W. Busch, M.~L. Green, P.~M. Voyles, D.~a.
+  Muller, M.~Bude, W.~H. Lin, a.~See, M.~E. Loomans, S.~K. Lahiri, and Petri~I.
+  Räisänen.
+\newblock {Morphology and crystallization kinetics in HfO[sub 2] thin films
+  grown by atomic layer deposition}.
+\newblock {\em Journal of Applied Physics}, 93(3):1477, 2003.
+
+\bibitem{Maria2002}
+J-p Maria, D~Wickaksana, J~Parrette, and A~I Kingon.
+\newblock {Crystallization in SiO 2 – metal oxide alloys}.
+\newblock 27695:1571--1579, 2002.
+
+\bibitem{Ceresoli2006}
+Davide Ceresoli and David Vanderbilt.
+\newblock {Structural and dielectric properties of amorphous ZrO2 and HfO2}.
+\newblock {\em Physical Review B}, 74(12):2--7, September 2006.
+
+\bibitem{Fischer2008a}
+Dominik Fischer and Alfred Kersch.
+\newblock {The effect of dopants on the dielectric constant of HfO[sub 2] and
+  ZrO[sub 2] from first principles}.
+\newblock {\em Applied Physics Letters}, 92(1):012908, 2008.
+
+\bibitem{Lee2008}
+Choong-Ki Lee, Eunae Cho, Hyo-Sug Lee, Cheol Hwang, and Seungwu Han.
+\newblock {First-principles study on doping and phase stability of HfO2}.
+\newblock {\em Physical Review B}, 78(1):1--4, July 2008.
+
+\bibitem{Debernardi2012}
+A.~Debernardi.
+\newblock Ab initio study of phase transition and dielectric constants of
+  high-$\ensuremath{\kappa}$ hfo${}_{2}$ as a function of ge alloying.
+\newblock {\em Phys. Rev. B}, 85:024109, Jan 2012.
+
+\bibitem{Garvie1978}
+R.~C. Garvie.
+\newblock {Stabilization of the tetragonal structure in zirconia
+  microcrystals}.
+\newblock {\em The Journal of Physical Chemistry}, 82(2):218--224, January
+  1978.
+
+\bibitem{Bredesen1988}
+R.~Bredesen and P.~Kofstad.
+\newblock {THE ELECTRICAL CONDUCTIVITY OF ZrO2-DOPED L-Ta205}.
+\newblock {\em J. Phys. Chem. Solids}, 49(10):1205--1212, 1988.
+
+\bibitem{albers1972}
+D.~M. Roessler and W.~A. Albers.
+\newblock infrared reflectance of single crystal tetragonal geo2.
+\newblock {\em J. Phys. Chem. Solids}, 33:293--296, 1972.
+
+\bibitem{singh2008}
+Abhishek~Kumar Singh, Anderson Janotti, Matthias Scheffler, and Chris~G. {Van
+  de Walle}.
+\newblock {Sources of Electrical Conductivity in SnO\_\{2\}}.
+\newblock {\em Physical Review Letters}, 101(5):055502, July 2008.
+
+\bibitem{Greener1961}
+E.~H. Greener, D.~H. Whitmore, and M.~E. Fine.
+\newblock {Electrical Conductivity of Near-Stoichiometric $\alpha$-Nb2O5}.
+\newblock {\em The Journal of Chemical Physics}, 34(3):1017, 1961.
+
+\bibitem{Choosuwan2003}
+H.~Choosuwan, R.~Guo, a.~S. Bhalla, and U.~Balachandran.
+\newblock {Low-temperature dielectric behavior of Nb[sub 2]O[sub 5]–SiO[sub
+  2] solid solutions}.
+\newblock {\em Journal of Applied Physics}, 93(5):2876, 2003.
+
+\end{thebibliography}

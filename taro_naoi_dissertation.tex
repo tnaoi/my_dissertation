@@ -1,0 +1,125 @@
+\documentclass[phd,tocprelim,cornellheadings,final,]{cornell}
+\let\ifpdf\relax
+%
+% tocprelim option must be included to put the roman numeral pages in the
+% table of contents
+%
+% The cornellheadings option will make headings completely consistent with
+% guidelines.
+%
+% This sample document was originally provided by Blake Jacquot and
+% Andrew Myers.
+%
+%Some possible packages to include
+
+\usepackage{graphicx,pstricks}
+\usepackage{graphics}
+\usepackage{moreverb}
+\usepackage{textcomp}
+\usepackage{epsfig}
+% \usepackage{subfigure}
+\usepackage{caption,subcaption}
+% \usepackage{hangcaption}
+\usepackage{palatino}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{wasysym}
+\usepackage[version=3]{mhchem}
+\usepackage{booktabs}
+\usepackage{notoccite}
+\usepackage{txfonts}
+\usepackage{gensymb}
+
+% \usepackage{background}
+% \backgroundsetup{
+%   position=current page.east
+%   angle=-90,
+%   nodeanchor=east,
+%   vshift=-5mm,
+%   opacity=1,
+%   scale=3,
+%   contents=Draft
+% }
+
+\captionsetup{compatibility=false}
+
+%if you're having problems with overfull boxes, you may need to increase
+%the tolerance to 9999
+\tolerance=9999
+
+\bibliographystyle{unsrt}
+
+% \renewcommand{\caption}[1]{\singlespacing\hangcaption{#1}\normalspacing}
+\renewcommand{\topfraction}{0.85}
+\renewcommand{\textfraction}{0.1}
+\renewcommand{\floatpagefraction}{0.75}
+
+\title {EXPLORING THE PROPERTIES OF COMPLEX THIN FILM AMORPHOUS AND CRYSTALLINE OXIDE DIELECTRICS}
+\author {Taro Albert Naoi}
+\conferraldate {May}{2021}
+\degreefield {Ph.D.}
+\copyrightholder{Taro Albert Naoi}
+\copyrightyear{2021}
+
+\begin{document}
+
+\maketitle
+\makecopyright
+
+\begin{abstract}
+Thin film dielectrics have been and still remain a key component in the semiconductor industrial pipeline. Gaining an understanding of the properties  of complex amorphous and crystalline oxides will facilitate their implementation in future technologies. Here, we investigate the effects of dopants on the dielectric and structural properties of various amorphous and crystalline thin films deposited using 90 degree off-axis magnetron cosputtering. We find that doping a small amount of GeO$_{2}$ in Ta$_{2}$O$_{5}$ greatly enhances the dielectric constant, with a maximum dielectric constant of $\varepsilon_{r} \sim 34$ at a Ta cation fraction of 0.97. In contrast, SiO$_{2}$ doping into Ta$_{2}$O$_{5}$ does not elicit such effect. We determine that the enhancement observed in Ta-Ge-O is due to an enhancement in the ionic polarizability. We follow with a study which probes the atomic structure of amorphous Ta$_{2}$O$_{5}$ and Ta-Ge-O thin films by systematically applying high energy x-ray diffraction and absorption techniques as well as computational simulations. The diffraction and absorption studies were greatly facilitated in part, by depositing the composition spreads on to amorphous silicon nitride membranes. We then explore the composition dependence of the dielectric properties of $\textnormal{Zr}_{1-x}\textnormal{Al}_{x}\textnormal{O}_{2-x/2}$ and $\textnormal{Zr}_{1-x}\textnormal{Si}_{x}\textnormal{O}_{2}$ to determine the effect of the presence or absence of crystallinity on the dielectric constant and the breakdown field of these materials. Finally, we co-deposit several technologically relevant dielectrics -- Hf-Si-O, Hf-Ge-O, Nb-Ge-O, and Ta-Sn-O -- to study their dielectric and structural properties as a function of composition and to test whether the type of dielectric behavior observed in the Ta-Ge-O system is a more widespread phenomenon. 
+\end{abstract}
+
+\begin{biosketch}
+Taro Albert Naoi was born on February 11, 1986 in Hayward CA to Satoshi and Tomoe Naoi. Taro was a shy and timid little rug rat, but despite his cautious temperament he was occupied by his curiosity even more. As a child he enjoyed releasing his youthful energy at the local park with his friends and letting his imagination run free with his extensive Lego collection. When Taro was five he was joined by his brother, Kenta Thomas Naoi. In contrast to his older brother, Kenta was a gregarious, fearless addition to the family, a suitable partner in crime to the more reserved and cautious older brother.
+
+With age Taro's interests expanded, including piano, soccer, video/computer games, and science fiction. In high school he was, for better or for worse, a carefree student. He enjoyed playing tennis and soccer on the high school team, while sustaining reasonable academic standing, and being involved in the occasional tomfoolery with his good friends. Keeping true to his love for science and technology he pursued a degree in materials engineering in college. There, he made many close friends and formed many memories inside and outside of the classroom. 
+
+His initial enthusiasm to attend graduate school was prompted, not by a suggestion from his parents, nor the intention to use it as a resume booster, but by a book by the great 20th century physicist Richard Feynman called, \emph{Surely You're Joking, Mr. Feynman}. This spurred him on to apply and attend an REU and ultimately, matriculate in a graduate program. In the Spring of 2008 he made the decision to leave the sunny beaches of California, heading east to Cornell University with his goal to become an independent thinker. 
+\end{biosketch}
+
+\begin{dedication}
+To family and friends
+\end{dedication}
+
+\begin{acknowledgements}
+Finishing my doctorate at Cornell would not have been possible without the continued love and support of numerous people in my life, who I acknowledge here. By no means is it meant to be an exhaustive list. First and foremost, I would like to thank my advisor R. Bruce van Dover for his insight, guidance, and assistance. It was truly a pleasure to work alongside someone with so much patience and understanding. I would also like to thank my committee members Professors Darrel G. Schlom and Craig J. Fennie for their feedback in reviewing my dissertation. 
+
+My growth as a professional and a human being has been greatly enhanced by those around me, in and outside of lab. I would like to acknowledge my collaborators and the staff at Cornell who helped me carry out my experiments as well as provide me with the opportunity to explore different research opportunities: Jaegoo Lee, Shantanu Rajwade, Darren Dale, and John Grazul. My colleagues in the van Dover group have been an invaluable source of knowledge, wisdom, and companionship: Sara, Anna, John, Jon, Hanjong, Marc, Chen, Huanan, Poya, and Bowen. 
+
+I am indebted to have friends, old and new, who have empowered me during times of personal strife to conquer my inner demons and also experience joyful moments that life has to offer. I hope that our fellowship will continue to grow stronger with time:  Sandra, David, Yujay, Alex, Richard, Eladio, Carlos, Vijay, Jon, Paul, Natalie, Tiffany, Rachel, Mike, Jeremey, Christine, Tom, Ferdinand, Mickie, Maro, Houlong, Sid, Amber, Golam, Ryan - thank you. 
+
+I would like to add a special thanks to my therapist Cora-Ellen Luke for providing me with emotional comfort in times of need and giving me invaluable tools to deal with the tough times at Cornell and beyond. 
+
+Last but certainly not least, I am eternally grateful for my family's unconditional support. Mom, Dad, and Kenta, you guys have been stood by me from beginning to end. I couldn't have done it without you guys. 
+\end{acknowledgements}
+
+\contentspage.
+\tablelistpage
+\figurelistpage
+\normalspacing \setcounter{page}{1} \pagenumbering{arabic}
+\pagestyle{cornell} \addtolength{\parskip}{0.5\baselineskip}
+
+% chapter 1
+\include{chapter_1/chapter_1}
+     
+% chapter 2
+\include{chapter_2/chapter_2}
+
+% chapter 3
+\include{chapter_3/chapter_3}
+
+% % chapter 4
+% \include{chapter_4/chapter_4}
+
+% % chapter 5
+% \include{chapter_5/chapter_5}
+
+% chapter 6
+\include{chapter_6/chapter_6}
+
+% chapter 7
+\include{chapter_7/chapter_7}
+
+\bibliography{thesis}
+\end{document}
