@@ -14,3 +14,4 @@ taro_naoi_dissertation.fdb_latexmk
 *.fls
 *.log
 *.fdb_latex
+*.pdf
