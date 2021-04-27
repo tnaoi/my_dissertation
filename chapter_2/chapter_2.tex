@@ -1,6 +1,6 @@
 \chapter{Materials Preparation and Analysis}
 
-In this chapter we discuss methods used to prepare and analyze the thin film oxides as well as provide a short review on the theory of dielectrics. 
+In this chapter we provide a short review on the theory of dielctrics and discuss methods used to prepare and analyze the thin film oxides. 
 
 \section{The dielectric properties of materials}
 \subsection{Insulating materials and charge}
@@ -50,10 +50,10 @@ This simple example shows that dielectrics are essentially charge storage device
 	\caption{}\label{fig:cap4}
 \end{subfigure}
 
-\caption{The contribution of the fringing field to the total electric field changes with the aspect ratio of the capacitor. Thin film capacitors have a large aspect ratio so the contribution of the fringing field is minimal.}
+\caption{(a) The contribution of the fringing field to the total electric field changes with the aspect ratio of the capacitor. (b) Thin film capacitors have a large aspect ratio so the contribution of the fringing field is minimal.}
 \end{figure}
 
-Field lines at the outer edges of the capacitor---so-called fringing fields---are not entirely contained between the plates. For our devices we assume that these fringing fields do not contribute significantly to the electrical measurement owing to the large aspect ratio between the thickness of the insulating film (d)---ranging from $\sim$10 to several 100 nanometers---and the width of the capacitors (w) (several hundred microns) in our devices, which allows us to greatly simplify the integral equation of Gauss's law. For a capacitor with no dielectric, 
+Field lines at the outer edges of the capacitor---so-called fringing fields---are not entirely contained between the plates. For our devices we assume that these fringing fields do not contribute significantly to the electrical measurement owing to the large aspect ratio between the thickness of the insulating film (d)---ranging from $\sim$10 to several 100 nanometers---and the width of the capacitors (w) (several hundred microns) in our devices (Figure \ref{fig:cap4}), which allows us to greatly simplify the integral equation of Gauss's law. For a capacitor with no dielectric, 
 \begin{equation}\label{eq:gauss_law}
 \oiint_{S}\vec{\textbf{E}}\cdot d\vec{\textbf{A}} = E_{o}A= \frac{Q_{o}}{\varepsilon_{o}}
 \end{equation} 
@@ -66,7 +66,7 @@ Recall, that for a capacitor with an insulating material the capacitance is larg
 \label{eq:cap2}
 C = \frac{\varepsilon_{o} \varepsilon_{r} A}{d}.
 \end{equation}
-Equation \ref{eq:cap2} illustrates the dependence of capacitance on geometry, namely capacitance area and distance between plates, and intrinsic electronic properties through $\varepsilon_{r}$. Our study focuses on the composition dependence of $\varepsilon_{r}$ for amorphous dielectric oxides. Thus, we introduce the concept of dielectric polarization to describe their intrinsic properties. 
+Equation \ref{eq:cap2} illustrates the dependence of capacitance on geometry, namely capacitance area and distance between plates, and intrinsic electronic properties through $\varepsilon_{r}$. Our study focuses on the composition dependence of $\varepsilon_{r}$ for dielectric oxides. Thus, we introduce the concept of dielectric polarization to describe their intrinsic properties. 
 
 \subsection{Polarization}
 
@@ -123,7 +123,7 @@ As mentioned earlier, when an electric field $\textbf{E}_{o}$ is applied to a di
 \label{depfield}
 \end{figure}
 
-The local field at atom $i$ is determined by summing the different contributions to the local field. The contributions from outside of the cavity $\textbf{E}(\textbf{r})$ equal the difference between the applied field and the depolarization field $\textbf{E} = \textbf{E}_{o} - \textbf{E}_{dep}$. Within the cavity we have contributions from $\textbf{E}_{\text{sphere}}(\textbf{r})$, which is the macroscopic field inside a uniformly polarized sphere, and local dipolar contributions of the atoms within the cavity, $\textbf{E}_{\text{dipolar}}(\textbf{r})$. We write $\textbf{E}_{\text{loc}}(\textbf{r})$ as
+The local field at atom $i$ is determined by summing the different contributions to the local field. The contributions from outside of the cavity $\textbf{E}(\textbf{r})$ equal the difference between the applied field and the depolarization field $\textbf{E}(\textbf{r}) = \textbf{E}_{o} - \textbf{E}_{dep}$. Within the cavity we have contributions from $\textbf{E}_{\text{sphere}}(\textbf{r})$, which is the macroscopic field inside a uniformly polarized sphere, and local dipolar contributions of the atoms within the cavity, $\textbf{E}_{\text{dipolar}}(\textbf{r})$. We write $\textbf{E}_{\text{loc}}(\textbf{r})$ as
 \begin{equation}\label{eq:local}
 \textbf{E}_{\text{loc}}(\textbf{r}) = \textbf{E}(\textbf{r}) + \textbf{E}_{\text{sphere}}(\textbf{r}) + \textbf{E}_{\text{dipolar}}(\textbf{r}).
 \end{equation}
@@ -198,20 +198,20 @@ To capture the inherent frequency dependent nature of the dielectric constant in
 \begin{equation}\label{eq:diecomp1}
 \varepsilon_{r} = \varepsilon '_{r} - i \varepsilon_{r}''
 \end{equation}
-where $\varepsilon '_{r}$ and $\varepsilon_{r}''$ are the real and imaginary parts of the dielectric constant, respectively. The real part of the dielectric constant is, $\varepsilon '_{r}$, is the measured relative permittivity in, for example, the capacitance in a PPC. On the other hand, $\varepsilon_{r}''$ represents the energy lost during the polarization process, for instance, by collision with neighboring atoms resulting in energy lost as heat.
+where $\varepsilon '_{r}$ and $\varepsilon_{r}''$ are the real and imaginary parts of the dielectric constant, respectively. The real part of the dielectric constant, $\varepsilon '_{r}$, is the measured relative permittivity in, for example, the capacitance in a PPC. On the other hand, $\varepsilon_{r}''$ represents the energy lost during the polarization process, for instance, by collision with neighboring atoms resulting in energy lost as heat.
 
 We define the loss tangent, $\tan{\delta}$ (also known as the dissipation factor), which equals the ratio between the real and imaginary parts of the dielectric constant
 \begin{equation}
 \text{tan}\,\delta = \frac{\varepsilon''_{r}}{\varepsilon'_{r}}.
 \end{equation}
-A high dissipation factor implies that the lossy component of the dielectric constant is large. The lossiness of the dielectric is usually a symptom of poor film quality, i.e. the presence of defect modes and are generally undesirable because they exhibit a significant amount of dispersion in the dielectric constant. Modern devices require high quality control and stability of electronic properties over a large frequency range, so we would like to minimize the frequency dispersion of the oxide. We therefore require films to have a low dissipation factor ($<$0.05).
+A high dissipation factor implies that the lossy component of the dielectric constant is large. The lossiness of the dielectric is usually a symptom of poor film quality, i.e. the presence of defect modes, and is generally undesirable because it exhibits a significant amount of dispersion in the dielectric constant. Modern devices require high quality control and stability of electronic properties over a large frequency range, so we would like to minimize the frequency dispersion of the oxide. We therefore require films to have a low dissipation factor ($<$0.05).
 
 \section{Synthesis of materials and devices}
 \subsection{Capacitor fabrication}
 
-Metal-insulator-metal (MIM) capacitors were fabricated and evaluated combinatorially to explore new amorphous dielectrics as well as to characterize known systems. The advantage of the MIM structure is its simplicity and the flexibility to assess a wide range of technologically relevant metrics. Our studies were mainly concerned with the dielectric properties of oxides and as such, we used the dielectric constant as a figure of merit when evaluating the MIM capacitors. To determine the resistive behavior of resistive memory devices, the MIM can also potentially be adapted to determine the resistive behavior of the material by measuring the I-V curve.
+Metal-insulator-metal (MIM) capacitors were fabricated and evaluated combinatorially to explore new amorphous dielectrics as well as to characterize known systems. The advantages of the MIM structure are simplicity and the flexibility to assess a wide range of technologically relevant metrics. Our studies were mainly concerned with the dielectric properties of oxides and as such, we used the dielectric constant as a figure of merit when evaluating the MIM capacitors. To determine the resistive behavior of resistive memory devices, the MIM can also potentially be adapted to determine the resistive behavior of the material by measuring the I-V curve.
 
-The majority of MIM capacitors were fabricated on 75 mm, 350 $\mu$m thick (100) Si wafers utilizing two deposition methods: electron beam (e-beam) evaporation for the deposition of metal electrodes and rf magnetron sputtering to deposit the oxide films. The general procedure is as follows. Blank Si wafers were first coated with 300 \AA\;Cr adhesion layer using e-beam evaporation. Then without breaking vacuum, a 300 \AA\;Pt base electrode layer was deposited, also using e-beam evaporation. The samples were removed from the evaporator and transferred to the sputtering chamber. Whole wafers were typically used, but in some cases cleaved to smaller pieces in order to accommodate for the size limitations of some measurement apparatuses. The chamber is capable of simultaneously depositing from up to three sputtering targets in the ``off-axis" configuration as shown in Figure \ref{fenris2}.
+The majority of MIM capacitors were fabricated on 75 mm, 350 $\mu$m thick (100) Si wafers utilizing two deposition methods: electron beam (e-beam) evaporation for the deposition of metal electrodes and rf magnetron sputtering to deposit the oxide films. The general procedure is as follows. Blank Si wafers were first coated with 300 \AA\;Cr adhesion layer using e-beam evaporation. Then without breaking vacuum, a 300 \AA\;Pt base electrode layer was deposited, also using e-beam evaporation. The samples were removed from the evaporator and transferred to the sputtering chamber. Whole wafers were typically used, but in some cases cleaved to smaller pieces in order to accommodate for the size limitations of some measurement apparatuses. The chamber is capable of simultaneously depositing from up to three sputtering targets in the ``off-axis" configuration, as shown in Figure \ref{fenris2}.
 
 \begin{figure}[ht]
 \centering
@@ -220,7 +220,7 @@ The majority of MIM capacitors were fabricated on 75 mm, 350 $\mu$m thick (100) 
 \label{fenris2}
 \end{figure}
 
-Here, off-axis means the target face is oriented perpendicular to the sample surface. Deposition from a single target in this configuration results in a natural thickness gradient across the wafer due to the exponential decrease in deposition rate with distance. Thus, when multiple sputtering guns are active a natural composition gradient is obtained. Because of the intimate intermixing of the sputtered constituents, the compositional resolution that can be achieved is typically better than $<$ 0.1 mole-$\%$. Note, the chamber is capable of sputtering in the conventional ``on-axis" configuration as well, where the target face is oriented parallel to the sample surface. This orientation was preferred when single composition films of uniform thickness was required.
+Here, off-axis means the target face is oriented perpendicular to the sample surface. Deposition from a single target in this configuration results in a natural thickness gradient across the wafer due to the exponential decrease in deposition rate with distance. Thus, when multiple sputtering guns are active a natural composition gradient is obtained. Because of the intimate intermixing of the sputtered constituents, the compositional resolution that can be achieved is typically better than $<$ 0.1 mole-$\%$. Note, the chamber is capable of sputtering in the conventional ``on-axis" configuration as well, where the target face is oriented parallel to the sample surface. This orientation was preferred when single composition films of uniform thickness were required.
 
 Base pressures down to 10$^{-6}$ Torr were achieved by using a turbo molecular pump that is backed by a roughing pump. A gate valve is throttled to control the chamber pressure during deposition. Film thicknesses generally varied from approximately 10 to 300 nm. An rf bias was often applied to the films during off-axis deposition to preclude the formation of voidy films. These voids have been shown to exhibit defect mediated polarization mechanisms that are undesirable for material integration into practical devices \cite{Barron2009}. Once the films were deposited the samples were transferred back to the evaporation chamber. This time, 300 \AA\;Pt dots were deposited onto the sample by evaporation through a shadow mask with 200 $\mu$m diameter holes arranged in a square array with center to center spacing of 500 microns. 
 
@@ -228,7 +228,7 @@ Base pressures down to 10$^{-6}$ Torr were achieved by using a turbo molecular p
 
 E-beam evaporation is a technique that uses high energy electron beams to evaporate source materials in a vacuum. Typically the evaporators are encased in a bell jar, and evacuated to $\sim$ 10\textsuperscript{-7} Torr prior to deposition. A large current is passed through a metal filament causing electrons to boil off thermionically and accelerate towards the source material, which is resting inside a water cooled hearth. The electrons are steered by the magnetic field produced by a solenoid. The force on the electron can be calculated using the Lorentz force equation, $\textbf{F} = q_{e}\textbf{E} + q_{e}\textbf{v} \times \textbf{B}$. The field can also be modulated so that the electron beam rasters across the source material, improving deposition uniformity. The main advantage over thermal evaporation is that e-beam evaporation can be used to evaporate most any material, even highly refractory metals. Although the energy input of the electron beam on the source material far exceeds the strength of the chemical bonds of the material, the overall process is still thermal. Thus the atoms are deposited with energy of $\sim$ 0.2 eV. The fact that it is a line of sight process is also favorable for the use of a shadow mask and minimizing the formation of penumbra caused by insufficient shadowing.  
 
-Some consideration is required when choosing the material that is to be used as electrodes. Because we are measuring the electrical properties of thin film amorphous oxides using MIM structures, we would like to minimize the amount of interfacial oxide formation that would result in inaccurate characterization of the thin film. As an electrode material, platinum is an obvious choice because it is a chemically inert material. However, silicon has a native surface oxide that inhibits the direct deposition of noble metals such as Au and Pt directly onto Si because of their different bonding characteristics. In such a case, a metal that is chemically more reactive needs to be deposited beforehand as an adhesion layer. In this study, a 300 \AA\;layer of Cr was commonly used, but other ``reactive" metals such as Ti would also suffice. A thickness of 300\;\AA\;is more than enough material to yield a continuous layer. 
+Some consideration is required when choosing the material that is to be used as electrodes. Because we are measuring the electrical properties of thin film amorphous oxides using MIM structures, we would like to minimize the amount of interfacial oxide formation that would result in inaccurate characterization of the thin film. As an electrode material, platinum is an obvious choice because it is a chemically inert material. However, silicon has a native surface oxide that inhibits the direct deposition of noble metals such as Au and Pt directly onto Si because of their different bonding characteristics. In such a case, a metal that is chemically more reactive needs to be deposited beforehand as an adhesion layer. In this study, a 300 \AA\;layer of Cr was often used, but other ``reactive" metals such as Ti would also suffice. A thickness of 300\;\AA\;is more than enough material to yield a continuous layer. 
 	
 \subsection{Reactive radio frequency magnetron sputtering and the co-sputtering technique}
 
@@ -238,7 +238,7 @@ Energy input of ionized gas ions in sputtering usually ranges from 10 to a few 1
 
 Structural control can be achieved using various flavors of sputtering. In our study we mainly use rf magnetrons. Rf sputtering is a flexible technique that can be used to deposit from both metals and insulating targets. Sinusoidal power is applied to the driven electrode, with frequency of oscillation typically at 13.56 MHz. Initially during the positive half of the cycle, the electrons respond to the electric field and are drawn to the cathode. However, when the electrode is driven negative, the ions are unable to respond to the sudden change in electric field due to their large size. Thus, the amount of ion current that flows through the target is significantly smaller in comparison to the electron current. Flow of excess electron current is most often impeded by the use of a blocking capacitor. As time progresses the power and the coupling capacitor continues to charge negatively (almost instantaneously). Eventually a steady state is reached and the target is negatively self-biased. Maximum power delivery to the target is accomplished by means of a matching network that works in parallel with the blocking capacitor. 
 
-Use of planar magnetron sputtering guns instead of planar-diode further improves sputtering efficiency. Powerful circular magnets embedded in planar magnetron guns produce magnetic field lines that emanate out into the chamber and curl around back into magnets at the center of the gun. When an electric field is simultaneously applied across the planar cathode, it creates a region where the electric and magnetic fields cross perpendicularly. Electrons in this region travel in a cycloidal pattern and become confined to that region. Consequently, ionization of gas atoms is most efficient there, producing a circular race-track erosion pattern. Magnetron sputtering has the effect of nonuniform erosion patterns across the target surface, but only requires a low working pressure to sputter materials. Therefore the deposition rate is increased due to decreased collisions and lower voltage requirements to sustain the plasma due to the confinement of electrons. 
+Use of planar magnetron sputtering guns instead of planar-diode further improves sputtering efficiency. Powerful circular magnets embedded in planar magnetron guns produce magnetic field lines that emanate out into the chamber and curl around back into magnets at the center of the gun. When an electric field is simultaneously applied across the planar cathode, it creates a region where the electric and magnetic fields cross perpendicularly. Electrons in this region travel in a cycloidal pattern and become confined to that region. Consequently, ionization of gas atoms is most efficient there, producing a circular race-track erosion pattern. Magnetron sputtering has the effect of nonuniform erosion patterns across the target surface, but only requires a low working pressure to sputter materials. Therefore the deposition rate is increased due to decreased collisions and a lower voltage required to sustain the plasma due to the confinement of electrons. 
 
 Most films in this study were sputtered reactively; films were deposited from metal targets in the presence of a working and reactive gas. The gaseous cocktail consisted of Ar as our working gas and O$_{2}$ as the reactive component. Reactive sputtering has several advantages over sputtering directly from a compound (ceramic) target. For one, metal targets can be sputtered at a higher deposition rate compared to ceramic targets and are not as brittle and prone to thermal shock. Higher target purity is also achievable with metal targets so in theory the deposited films should be of higher purity. However, because the target atoms must undergo reactions with the reactive gas to form compounds, in practice one has to consider appropriate partial pressures and gas compositions ratios during deposition to ensure stoichiometric deposition from a metal target. This can be done by controlling the working pressure of the deposition chamber during sputtering, and also by changing the flow rate of the gasses using a mass flow controller.
 
@@ -317,7 +317,7 @@ We can combine these quantities in the fundamental equation of ellipsometry
 \frac{R_{p}}{R_{s}} = \tan{(\psi)}e^{i\Delta}.
 \label{ref:ellipsometry}
 \end{equation}
-The amplitude ratio of reflection, $\tan{(\psi)}$,  and phase shift, $\Delta$, can be measured experimentally, however relevant optical and geometric parameters such as film thickness and refractive index are calculated by fitting to a model. Note, the variability of the angle and the spectroscopic nature of the measurement increases the number of fitted parameters, making the fitting process  more robust. For many optically transparent non-absorbing materials---oxides being one of them---the Cauchy relation provides a simple empirical solution. The Cauchy dispersion relation is,
+The amplitude ratio of reflection, $\tan{(\psi)}$,  and phase shift, $\Delta$, can be measured experimentally, however relevant optical and geometric parameters such as film thickness and refractive index are calculated by fitting to a model. Note, the variability of the angle and the spectroscopic nature of the measurement increase the number of fitted parameters, making the fitting process  more robust. For many optically transparent non-absorbing materials---oxides being one of them---the Cauchy relation provides a simple empirical solution. The Cauchy dispersion relation is,
 \begin{equation}
 n = A + \frac{B}{\lambda^{2}} + \frac{C}{\lambda^{4}}.
 \label{eq:cauchy}
@@ -330,14 +330,14 @@ Determining the composition dependent properties of the oxides hinges on accurat
 
 Deposition rate calibrations were obtained by depositing elemental oxide films in the off-axis configuration onto a bare 3" Si wafer. Depositions typically lasted 20 minutes, although in some cases were extended if the deposition rate of the oxide was low. All depositions were eventually normalized to deposition rates (thickness/unit time) to account for the variability in deposition time. A bias of -75 V was applied to the substrate during calibration runs to emulate the deposition conditions of cosputtered films at room temperature.
 
-The majority of the films studied were binary oxides thus requiring only linear thickness profiles across the diameter of the wafer (thickness measured using ellipsometry). This corresponds to a profile that starts from the center of the sputtering target and extends perpendicular to the target face (Figure \ref{calibration}).
+The majority of the films studied were binary or pseudo-ternary oxides thus requiring only linear thickness profiles across the diameter of the wafer (thickness measured using ellipsometry). This corresponds to a profile that starts from the center of the sputtering target and extends perpendicular to the target face (Figure \ref{calibration}).
 \begin{figure}
 \centering
 \noindent\includegraphics[width=0.7\textwidth]{chapter_2/calibration}
 \caption{Guns in the off-axis configuration for deposition rate calibration. Figure depicts a deposition profile along Gun A.}
 \label{calibration}
 \end{figure}
-Three to four equally spaced points on the wafer that are collinear to this line were sufficient to generate an accurate linear thickness profile. An exponentially decaying function was fit to the measured thickness to obtain decay length and thickness at substrate edge. To determine the composition ratio of a binary oxide, we must first convert the thicknesses to molecules per unit area for each elemental oxide using the following equation,
+Three to four equally spaced points on the wafer collinear to this line were sufficient to generate an accurate linear thickness profile. An exponentially decaying function was fit to the measured thickness to obtain decay length and thickness at substrate edge. To determine the composition ratio of a pseudo-ternary oxide, we must first convert the thicknesses to molecules per unit area for each elemental oxide using the following equation,
 \begin{equation}\label{eq:composition_a}
 [A_{x}O_{y}] = t(A_{x}O_{y})*\text{A.M.}(A_{x}O_{y})*\rho (A_{x}O_{y})*N_{a}.
 \end{equation}
@@ -380,11 +380,11 @@ The Merriam-Webster Webster dictionary defines the word amorphous as "having no 
 
 \subsection{Real space diffraction}
 
-We rely heavily on several preexisting techniques that have experienced historic development, one of which is real space diffraction analysis. The goal of the technique is to determine a pair distribution function (PDF), $g(r)$, that represents the probability of finding an atom at distance $r$ from an origin atom. Several references on this topic are available \cite{Billinge2003,Warren1990,Waseda1980, Farrow2009}. To obtain $g(r)$ we must compute $\varphi(Q)$, the reduced intensity function from measured X-ray intensities, $I(Q)$, and then apply a sine Fourier transform. The canonical expression of the PDF is,
+To probe the structure of amorphous materials, we rely heavily on several preexisting techniques that have experienced historic development, one of which is real space diffraction analysis. The goal of the technique is to determine a pair distribution function (PDF), $g(r)$, that represents the probability of finding an atom at distance $r$ from an origin atom. Several references on this topic are available \cite{Billinge2003,Warren1990,Waseda1980, Farrow2009}. To obtain $g(r)$ we must compute $\varphi(Q)$, the reduced intensity function from measured X-ray intensities, $I(Q)$, and then apply a sine Fourier transform. The canonical expression of the PDF is,
 \begin{equation}\label{eq:PDF}
-g(r) =\rho_{a} + \frac{1}{2\pi^{2}r} \int_{0}^{\infty} \varphi(Q)\sin{Qr}\;dQ.
+g(r) =\rho_{a} + \frac{1}{2\pi^{2}r} \int_{0}^{\infty} \varphi(Q)\sin{Qr}\;dQ
 \end{equation} 
-Binary alloys require further mathematical treatment (to extract partial distribution functions for proper structural analysis), and ternary even more so. Recent improvements in computational power allow modeling of complex amorphous systems with great accuracy \cite{Petkov1998, Bassiri2011}, and can be used in conjunction with experimental data to determine partial distribution functions. In the following section we derive the PDF for the simple case of a single element system, similar to the derivation found in \cite{Warren1990}.  
+where $Q = 4\pi \sin{\theta/\lambda}$. Binary alloys require further mathematical treatment (to extract partial distribution functions for proper structural analysis), and ternary even more so. Recent improvements in computational power allow modeling of complex amorphous systems with great accuracy \cite{Petkov1998, Bassiri2011}, and can be used in conjunction with experimental data to determine partial distribution functions. In the following section, we provide a condensed derivation of the PDF for the simple case of a single element system. Full derivation can be found in \cite{Warren1990}.  
 
 In the kinematical limit the scattering intensity is written as the sum of amplitudes from different atoms multiplied by its complex conjugate. Defining a difference vector $\textbf{r}_{ji} = \textbf{r}_{j} - \textbf{r}_{i}$:
 \begin{equation}\label{eq:ScatI}
@@ -405,10 +405,10 @@ I(Q) = \sum_{j}f^{2}+ \sum_{j}f^{2}\int [g_{m}(\textbf{r}_{ij})-\rho_{a}]e^{(2\p
 To solve the integral we take an orientational average over the volume of the sample, assuming an isotropic distribution of atoms. The average density function is $g(\textbf{r}) = \langle g_{j}(\textbf{r}_{ij})\rangle$, in which $\textbf{r} = \textbf{r}_{ij}$ for fixed atom displacements. We consider amorphous materials of the type such that for large $\textbf{r}$ values, $g(\textbf{r}) - \rho_{a}$ goes to zero. We can thus simplify the sum of the self-scattering terms by replacing the sum with $N$. Also, the third term only contributes to I(Q) at small scattering vectors, so it can be dropped from the equation if small angles are not included in the data. Substituting the scattering vector $Q = 4\pi \sin{\theta/\lambda}$, and from the fact that 
 $(\textbf{s} - \textbf{s}_{o})\cdot(\textbf{r}_{nm}) = 2\sin{\theta}\;r\cos{\phi}$, we can solve the integral in equation \ref{eq:Ic3}
 \begin{equation}\label{eq:Ic4}
-I(Q) = Nf^{2}+ Nf^{2}\int^{\infty}_{0}\int^{\pi}_{0}[g(r)-\rho_{a}] e^{ikr\cos{\phi}}2\pi r^{2} \sin{\phi}\;d\phi\;dr
+I(Q) = Nf^{2}+ Nf^{2}\int^{\infty}_{0}\int^{\pi}_{0}[g(r)-\rho_{a}] e^{iQr\cos{\phi}}2\pi r^{2} \sin{\phi}\;d\phi\;dr
 \end{equation}
 \begin{equation}\label{eq:Ic5}
-I(Q) = Nf^{2}+ Nf^{2}\int^{\infty}_{0} 4\pi r^{2}[g(r) - \rho_{a}] \frac{\sin{kr}}{kr}\;dr.
+I(Q) = Nf^{2}+ Nf^{2}\int^{\infty}_{0} 4\pi r^{2}[g(r) - \rho_{a}] \frac{\sin{Qr}}{Qr}\;dr.
 \end{equation} 
 To get the PDF we introduce the reduced intensity function $\varphi(Q)$
 \begin{equation}\label{eq:RIF}
@@ -416,13 +416,13 @@ To get the PDF we introduce the reduced intensity function $\varphi(Q)$
 \end{equation}
 which gives us, 
 \begin{equation}\label{eq:phi}
-\varphi(Q) = 4\pi\int^{\infty}_{0}  r[g(r) - \rho_{a}] \sin{kr}dr.
+\varphi(Q) = 4\pi\int^{\infty}_{0}  r[g(r) - \rho_{a}] \sin{Qr}dr.
 \end{equation}
 Currently phi is a function of Q-space. The PDF is a real space function and therefore, we need to apply a Fourier transform to $\varphi(Q)$. Defining $f(r) =  r[g(r) - \rho_{a}]$, we obtain the following Fourier pair:
 \begin{equation}\label{eq:pair}
 \begin{split}
- & \varphi(Q) = 4\pi\int^{\infty}_{0} f(r) \sin{kr}\;dr\\
- & f(Q) = \frac{1}{2\pi^{2}}\int^{\infty}_{0} \varphi(Q) \sin{kr}\;dr.
+ & \varphi(Q) = 4\pi\int^{\infty}_{0} f(r) \sin{Qr}\;dr\\
+ & f(Q) = \frac{1}{2\pi^{2}}\int^{\infty}_{0} \varphi(Q) \sin{Qr}\;dr.
 \end{split}
 \end{equation}
 From this we see that with a little rearranging, one can easily obtain the result presented in equation \ref{eq:PDF}.
@@ -444,11 +444,11 @@ Window size was modified depending on the number of membranes in the array. The 
 \label{windows}
 \end{figure}
 
-Prior to silicon nitride deposition, 3 inch double-side polished wafers were cleaned in an acid bath followed by a base bath and rinsed in deionized water after each. The wafers were then transferred to an MRL Industries low pressure chemical vapor deposition (LPCVD) furnace where low stress silicon nitride was deposited. The nitride deposition rate was approximately 30 \AA\;per minute determined from prior calibration runs. The substrates were kept in the furnace for 7 hours at 775 \textdegree C, which yielded nitride films that were approximately 1.5-1.6 microns thick determined by reflectometry (FilMetrics Film Measurement System). Window array patterns were developed on the wafer using standard photolithographic methods. This involves transferring a photoresist pattern of the array onto the nitride coated substrate and etching away the nitride in the exposed windows. Finally, the wafer was back-etched using a potassium hydroxide solution forming the silicon nitride windows.
+Prior to silicon nitride deposition, 3 inch double-side polished wafers were cleaned in an acid bath followed by a base bath and rinsed in deionized water after each. The wafers were then transferred to an MRL Industries low pressure chemical vapor deposition (LPCVD) furnace where low stress silicon nitride was deposited. Nitride deposition rate was approximately 30 \AA\;per minute determined from prior calibration runs. The substrates were kept in the furnace for 7 hours at 775 \textdegree C, which yielded nitride films that were approximately 1.5-1.6 microns thick determined by reflectometry (FilMetrics Film Measurement System). Window array patterns were developed on the wafer using standard photolithographic methods. This involves transferring a photoresist pattern of the array onto the nitride coated substrate and etching away the nitride in the exposed windows. Finally, the wafer was back-etched using a potassium hydroxide solution forming the silicon nitride windows.
 
 \subsection{From measured intensity to PDF}
 
-Data acquisition is only half the battle, the other being data reduction and analysis. To refine the raw data into something we can analyze, we first normalized to the total x-ray flux (IC3 counts) and subtracted the silicon nitride background from the raw 2D spectra. The spectra was then collapsed into a 1D diffraction pattern by integrating azimuthally in fit2D \cite{Hammersley1996}.
+Data acquisition is only half the battle for PDF analysis, the other being data reduction and analysis. To refine the raw data into something we can analyze, we first normalized to the total x-ray flux (IC3 counts) and subtracted the silicon nitride background from the raw 2D spectra. The spectra was then collapsed into a 1D diffraction pattern by integrating azimuthally in fit2D \cite{Hammersley1996}.
 
 At this point it is common to apply further corrections to the diffraction pattern. This includes polarization, absorption, multiple scattering effects, etc., and have been widely implemented in several PDF analysis programs \cite{Qiu2004}. However, it is fairly time consuming to master these programs and careful consideration of the various errors in diffraction analysis is required, calling on a high level of expertise. In this study we make use of a less arduous approach by analyzing the data \emph{ad hoc}. 
 
@@ -486,7 +486,7 @@ in which the absorption coefficient $\mu(E)$ is also an energy dependent quantit
 \chi(E) = \frac{\mu(E) - \mu_{o}(E)}{\Delta\mu_{o}(E_{o})}
 \label{eq:EXAFS_chi}
 \end{equation}
-where $\mu_{o}(E)$ is the background absorption and $\Delta\mu_{o}(E_{o})$ is the edge step which normalizes the equation to one absorption event. We can extract useful information from the data by modeling the fine structure. Taking into account inelastic and multiple scattering and thermal vibrations the EXAFS equation is
+where $\mu_{o}(E)$ is the background absorption and $\Delta\mu_{o}(E_{o})$ is the edge step which normalizes the equation to one absorption event. We can extract useful information from the data by modeling the fine structure. Taking into account inelastic and multiple scattering and disorder within the material the EXAFS equation is
 \begin{equation} 
 \chi(k) = \sum_{i}\frac{N_{i}S_{o}^{2}f_{i}e^{-2R_{i}/\lambda(k)}e^{-2k^{2}\sigma_{i}^{2}}}{kR^{2}_{i}} \sin{2kR_{i} + \delta_{i}(k)}.
 \label{eq:exafs2}
